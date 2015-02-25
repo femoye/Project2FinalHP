@@ -25,7 +25,7 @@ Description: The Welcome page
         <!--start holder-->
         <div class="holder_content">
             <section class="group2">
-                <h3>College Store...</h3>
+                <h3>College Store TEST...</h3>
                 <p>...provides everything on your school supplies list. Shop online today for our supplies selection.</p>
                 <a class="photo_hover3" href="supplies.php"><img src="images/supplies-bt.jpg" width="360" height="214" title="Supplies" alt="supplies"/></a>
             </section>
